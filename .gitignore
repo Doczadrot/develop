@@ -1,0 +1,13 @@
+# PyCharm
+.idea/
+
+# Compiled Python files
+__pycache__/
+
+# Python egg metadata, scripts, bytecode
+*.egg-info/
+*.egg
+*.pyc
+
+# Virtual environment
+venv/
